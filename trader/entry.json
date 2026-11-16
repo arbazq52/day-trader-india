@@ -1,0 +1,22 @@
+{
+  "created_by": "trader-entry",
+  "symbol": "OPTIEMUS",
+  "setup": "orb",
+  "side": "buy",
+  "date": "2026-11-16",
+  "status": "waiting",
+  "time": null,
+  "bar_start": null,
+  "bar_index": null,
+  "price": null,
+  "level": 830.45,
+  "interval": "5m",
+  "opening_range": {
+    "high": 830.45,
+    "low": 810.0,
+    "minutes": 15
+  },
+  "source": "yahoo",
+  "checked_at": "2026-11-16T04:17:51Z",
+  "reason": "last close Rs 816.60 (9:40 bar), Rs 13.85 under the range high Rs 830.45 (-1.67%)"
+}

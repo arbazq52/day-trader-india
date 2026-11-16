@@ -1,7 +1,7 @@
 {
   "name": "day-trader-skill",
-  "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-  "version": "2.0.0",
+  "description": "9 Claude skills for intraday trading on the NSE (India edition, IST): scan charts, track news, time entries and exits, replay every outcome before you risk a rupee.",
+  "version": "2.0.0-india",
   "author": {
     "name": "Jake Schincariol",
     "url": "https://opusjake.ai"
@@ -16,7 +16,8 @@
     "stock-market",
     "backtesting",
     "opening-range-breakout",
-    "paper-trading"
+    "nse",
+    "india"
   ],
   "skills": "./"
 }
